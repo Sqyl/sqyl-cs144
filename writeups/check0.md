@@ -1,11 +1,11 @@
 Checkpoint 0 Writeup
 ====================
 
-My name: [your name here]
+My name: [WANG Chang]
 
-My SUNet ID: [your sunetid here]
+My /*SUNet*/ UMMoodle ID: [MC35373]
 
-I collaborated with: [list sunetids here]
+I collaborated with: [Myself]
 
 I would like to credit/thank these classmates for their help: [list sunetids here]
 
